@@ -1,0 +1,364 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7EDC3CE5-A62A-4B5A-8001-1128E479EE19}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Check_Knowledge.My.MyApplication</StartupObject>
+    <RootNamespace>Check_Knowledge</RootNamespace>
+    <AssemblyName>Check Knowledge</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Check Knowledge.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Check Knowledge.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>fdgdg.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AILearn.vb" />
+    <Compile Include="baoloi.Designer.vb">
+      <DependentUpon>baoloi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="baoloi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="chonpath.Designer.vb">
+      <DependentUpon>chonpath.vb</DependentUpon>
+    </Compile>
+    <Compile Include="chonpath.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dapanshow.Designer.vb">
+      <DependentUpon>dapanshow.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dapanshow.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dieukhoan.Designer.vb">
+      <DependentUpon>dieukhoan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dieukhoan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="find_max_id.Designer.vb">
+      <DependentUpon>find_max_id.vb</DependentUpon>
+    </Compile>
+    <Compile Include="find_max_id.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="home.Designer.vb">
+      <DependentUpon>home.vb</DependentUpon>
+    </Compile>
+    <Compile Include="home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="home_v2.Designer.vb">
+      <DependentUpon>home_v2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="home_v2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="infodata.Designer.vb">
+      <DependentUpon>infodata.vb</DependentUpon>
+    </Compile>
+    <Compile Include="infodata.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lib_online.Designer.vb">
+      <DependentUpon>lib_online.vb</DependentUpon>
+    </Compile>
+    <Compile Include="lib_online.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="load1.Designer.vb">
+      <DependentUpon>load1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="load1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="load2.Designer.vb">
+      <DependentUpon>load2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="load2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="luuy.Designer.vb">
+      <DependentUpon>luuy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="luuy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="play_all_game.Designer.vb">
+      <DependentUpon>play_all_game.vb</DependentUpon>
+    </Compile>
+    <Compile Include="play_all_game.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menuh.Designer.vb">
+      <DependentUpon>menuh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="menuh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="caidat.Designer.vb">
+      <DependentUpon>caidat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="caidat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="show_score.Designer.vb">
+      <DependentUpon>show_score.vb</DependentUpon>
+    </Compile>
+    <Compile Include="show_score.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="test_beta.Designer.vb">
+      <DependentUpon>test_beta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="test_beta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="theme2.Designer.vb">
+      <DependentUpon>theme2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="theme2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="thongke.Designer.vb">
+      <DependentUpon>thongke.vb</DependentUpon>
+    </Compile>
+    <Compile Include="thongke.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="capnhat.Designer.vb">
+      <DependentUpon>capnhat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="capnhat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThugonALL.vb" />
+    <Compile Include="upload_sv.Designer.vb">
+      <DependentUpon>upload_sv.vb</DependentUpon>
+    </Compile>
+    <Compile Include="upload_sv.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WebFileDownloader.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="baoloi.resx">
+      <DependentUpon>baoloi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="chonpath.resx">
+      <DependentUpon>chonpath.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dapanshow.resx">
+      <DependentUpon>dapanshow.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dieukhoan.resx">
+      <DependentUpon>dieukhoan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="find_max_id.resx">
+      <DependentUpon>find_max_id.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="home.resx">
+      <DependentUpon>home.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="home_v2.resx">
+      <DependentUpon>home_v2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="infodata.resx">
+      <DependentUpon>infodata.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lib_online.resx">
+      <DependentUpon>lib_online.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="load1.resx">
+      <DependentUpon>load1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="load2.resx">
+      <DependentUpon>load2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="luuy.resx">
+      <DependentUpon>luuy.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="play_all_game.resx">
+      <DependentUpon>play_all_game.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menuh.resx">
+      <DependentUpon>menuh.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="caidat.resx">
+      <DependentUpon>caidat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="show_score.resx">
+      <DependentUpon>show_score.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="test_beta.resx">
+      <DependentUpon>test_beta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="theme2.resx">
+      <DependentUpon>theme2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="thongke.resx">
+      <DependentUpon>thongke.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="capnhat.resx">
+      <DependentUpon>capnhat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="upload_sv.resx">
+      <DependentUpon>upload_sv.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nenkogian.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="fdgdg.ico" />
+    <Content Include="logo.ico" />
+    <Content Include="logo2.ico" />
+    <None Include="Resources\22281326_1966775933559900_203390_o.jpg" />
+    <Content Include="sdadad.ico" />
+    <None Include="Resources\nhac.bmp" />
+    <None Include="Resources\Check knowledge.png" />
+    <Content Include="Resources\set.mp3" />
+    <None Include="Resources\set2.png" />
+    <None Include="Resources\set.png" />
+    <None Include="Resources\log2o.png" />
+    <None Include="Resources\kobik4.png" />
+    <None Include="Resources\kobik3.png" />
+    <None Include="Resources\kobik2.png" />
+    <None Include="Resources\dichuyen.png" />
+    <None Include="Resources\form.png" />
+    <None Include="Resources\n2.png" />
+    <None Include="Resources\n1.png" />
+    <None Include="Resources\b2.png" />
+    <None Include="Resources\b1.png" />
+    <None Include="Resources\a.png" />
+    <None Include="Resources\2415454.png" />
+    <None Include="Resources\hg1.png" />
+    <None Include="Resources\4.jpg" />
+    <None Include="Resources\3.jpg" />
+    <None Include="Resources\hinh-nen-phong-canh-thien-nhien-hd-tuyet-dep-129-1024x768.jpg" />
+    <None Include="Resources\Loading1.gif" />
+    <None Include="Resources\loading.gif" />
+    <None Include="Resources\Untitled-1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

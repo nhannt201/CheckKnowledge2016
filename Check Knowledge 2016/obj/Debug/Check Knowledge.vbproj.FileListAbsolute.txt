@@ -1,0 +1,75 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Check Knowledge\bin\Debug\Check Knowledge.exe.config
+C:\Users\Administrator\AppData\Local\Temporary Projects\Check Knowledge\bin\Debug\Check Knowledge.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Check Knowledge\bin\Debug\Check Knowledge.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\Check Knowledge\bin\Debug\Check Knowledge.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Check Knowledge\obj\Debug\Check_Knowledge.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Check Knowledge\obj\Debug\Check_Knowledge.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Check Knowledge\obj\Debug\Check Knowledge.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Check Knowledge\obj\Debug\Check Knowledge.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Check Knowledge\obj\Debug\Check Knowledge.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Check Knowledge\obj\Debug\Check Knowledge.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\Check Knowledge\obj\Debug\Check_Knowledge.Form2.resources
+E:\Check Knowledge 2016\Check Knowledge 2016\bin\Debug\Check Knowledge.exe.config
+E:\Check Knowledge 2016\Check Knowledge 2016\bin\Debug\Check Knowledge.exe
+E:\Check Knowledge 2016\Check Knowledge 2016\bin\Debug\Check Knowledge.pdb
+E:\Check Knowledge 2016\Check Knowledge 2016\bin\Debug\Check Knowledge.xml
+E:\Check Knowledge 2016\Check Knowledge 2016\obj\Debug\Check_Knowledge.baoloi.resources
+E:\Check Knowledge 2016\Check Knowledge 2016\obj\Debug\Check_Knowledge.chonpath.resources
+E:\Check Knowledge 2016\Check Knowledge 2016\obj\Debug\Check_Knowledge.dapanshow.resources
+E:\Check Knowledge 2016\Check Knowledge 2016\obj\Debug\Check_Knowledge.dieukhoan.resources
+E:\Check Knowledge 2016\Check Knowledge 2016\obj\Debug\Check_Knowledge.find_max_id.resources
+E:\Check Knowledge 2016\Check Knowledge 2016\obj\Debug\Check_Knowledge.home.resources
+E:\Check Knowledge 2016\Check Knowledge 2016\obj\Debug\Check_Knowledge.home_v2.resources
+E:\Check Knowledge 2016\Check Knowledge 2016\obj\Debug\Check_Knowledge.infodata.resources
+E:\Check Knowledge 2016\Check Knowledge 2016\obj\Debug\Check_Knowledge.lib_online.resources
+E:\Check Knowledge 2016\Check Knowledge 2016\obj\Debug\Check_Knowledge.load1.resources
+E:\Check Knowledge 2016\Check Knowledge 2016\obj\Debug\Check_Knowledge.load2.resources
+E:\Check Knowledge 2016\Check Knowledge 2016\obj\Debug\Check_Knowledge.luuy.resources
+E:\Check Knowledge 2016\Check Knowledge 2016\obj\Debug\Check_Knowledge.play_all_program.resources
+E:\Check Knowledge 2016\Check Knowledge 2016\obj\Debug\Check_Knowledge.menuh.resources
+E:\Check Knowledge 2016\Check Knowledge 2016\obj\Debug\Check_Knowledge.Resources.resources
+E:\Check Knowledge 2016\Check Knowledge 2016\obj\Debug\Check_Knowledge.caidat.resources
+E:\Check Knowledge 2016\Check Knowledge 2016\obj\Debug\Check_Knowledge.show_score.resources
+E:\Check Knowledge 2016\Check Knowledge 2016\obj\Debug\Check_Knowledge.test_beta.resources
+E:\Check Knowledge 2016\Check Knowledge 2016\obj\Debug\Check_Knowledge.theme2.resources
+E:\Check Knowledge 2016\Check Knowledge 2016\obj\Debug\Check_Knowledge.thongke.resources
+E:\Check Knowledge 2016\Check Knowledge 2016\obj\Debug\Check_Knowledge.capnhat.resources
+E:\Check Knowledge 2016\Check Knowledge 2016\obj\Debug\Check_Knowledge.upload_sv.resources
+E:\Check Knowledge 2016\Check Knowledge 2016\obj\Debug\Check Knowledge.vbproj.GenerateResource.cache
+E:\Check Knowledge 2016\Check Knowledge 2016\obj\Debug\Check Knowledge.vbproj.CoreCompileInputs.cache
+E:\Check Knowledge 2016\Check Knowledge 2016\obj\Debug\Check Knowledge.exe
+E:\Check Knowledge 2016\Check Knowledge 2016\obj\Debug\Check Knowledge.xml
+E:\Check Knowledge 2016\Check Knowledge 2016\obj\Debug\Check Knowledge.pdb
+E:\Check Knowledge 2016\Check Knowledge 2016\obj\Debug\Check Knowledge.vbprojAssemblyReference.cache
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\bin\Debug\Check Knowledge.exe.config
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\bin\Debug\Check Knowledge.exe
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\bin\Debug\Check Knowledge.pdb
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\bin\Debug\Check Knowledge.xml
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\obj\Debug\Check Knowledge.vbprojAssemblyReference.cache
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\obj\Debug\Check_Knowledge.baoloi.resources
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\obj\Debug\Check_Knowledge.chonpath.resources
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\obj\Debug\Check_Knowledge.dapanshow.resources
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\obj\Debug\Check_Knowledge.dieukhoan.resources
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\obj\Debug\Check_Knowledge.find_max_id.resources
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\obj\Debug\Check_Knowledge.home.resources
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\obj\Debug\Check_Knowledge.home_v2.resources
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\obj\Debug\Check_Knowledge.infodata.resources
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\obj\Debug\Check_Knowledge.lib_online.resources
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\obj\Debug\Check_Knowledge.load1.resources
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\obj\Debug\Check_Knowledge.load2.resources
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\obj\Debug\Check_Knowledge.luuy.resources
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\obj\Debug\Check_Knowledge.play_all_program.resources
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\obj\Debug\Check_Knowledge.menuh.resources
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\obj\Debug\Check_Knowledge.Resources.resources
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\obj\Debug\Check_Knowledge.caidat.resources
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\obj\Debug\Check_Knowledge.show_score.resources
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\obj\Debug\Check_Knowledge.test_beta.resources
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\obj\Debug\Check_Knowledge.theme2.resources
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\obj\Debug\Check_Knowledge.thongke.resources
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\obj\Debug\Check_Knowledge.capnhat.resources
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\obj\Debug\Check_Knowledge.upload_sv.resources
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\obj\Debug\Check Knowledge.vbproj.GenerateResource.cache
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\obj\Debug\Check Knowledge.vbproj.CoreCompileInputs.cache
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\obj\Debug\Check Knowledge.exe
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\obj\Debug\Check Knowledge.xml
+F:\VB.NET\A_Du an thi STTTNND 2018 2019\KF Plus\Check Knowledge 2016\obj\Debug\Check Knowledge.pdb
