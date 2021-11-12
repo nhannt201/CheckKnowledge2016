@@ -8,4 +8,3 @@ Copyright © 2017 Nguyễn Trung Nhẫn
 
 # Tác giả
 - Nguyễn Trung Nhẫn
-- Liên hệ: trungnhan0911@yandex.com
