@@ -1,0 +1,48 @@
+E:\Check Know Trinh tao du lieu\Check Know Thu nghiem tinh nang\bin\Debug\MAKEDATA.exe.config
+E:\Check Know Trinh tao du lieu\Check Know Thu nghiem tinh nang\bin\Debug\MAKEDATA.exe
+E:\Check Know Trinh tao du lieu\Check Know Thu nghiem tinh nang\bin\Debug\MAKEDATA.pdb
+E:\Check Know Trinh tao du lieu\Check Know Thu nghiem tinh nang\bin\Debug\MAKEDATA.xml
+E:\Check Know Trinh tao du lieu\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATA.vbprojAssemblyReference.cache
+E:\Check Know Trinh tao du lieu\Check Know Thu nghiem tinh nang\obj\Debug\Interop.VBIDE.dll
+E:\Check Know Trinh tao du lieu\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATA.vbproj.ResolveComReference.cache
+E:\Check Know Trinh tao du lieu\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATACK.editv1.resources
+E:\Check Know Trinh tao du lieu\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATACK.find_edit.resources
+E:\Check Know Trinh tao du lieu\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATACK.Resources.resources
+E:\Check Know Trinh tao du lieu\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATACK.test_open_sua.resources
+E:\Check Know Trinh tao du lieu\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATACK.thongtin.resources
+E:\Check Know Trinh tao du lieu\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATACK.tracnghiem.resources
+E:\Check Know Trinh tao du lieu\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATACK.trinhedit.resources
+E:\Check Know Trinh tao du lieu\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATACK.win_share.resources
+E:\Check Know Trinh tao du lieu\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATACK.word_file.resources
+E:\Check Know Trinh tao du lieu\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATACK.word_tuychon.resources
+E:\Check Know Trinh tao du lieu\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATACK.xacnhan.resources
+E:\Check Know Trinh tao du lieu\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATA.vbproj.GenerateResource.cache
+E:\Check Know Trinh tao du lieu\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATA.vbproj.CoreCompileInputs.cache
+E:\Check Know Trinh tao du lieu\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATA.exe
+E:\Check Know Trinh tao du lieu\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATA.xml
+E:\Check Know Trinh tao du lieu\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATA.pdb
+E:\Check Know Trinh tao du lieu\Check Know Thu nghiem tinh nang\obj\Debug\Interop.Accessibility.dll
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\bin\Debug\MAKEDATA.exe.config
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\bin\Debug\MAKEDATA.exe
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\bin\Debug\MAKEDATA.pdb
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\bin\Debug\MAKEDATA.xml
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATA.vbprojAssemblyReference.cache
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\Interop.Accessibility.dll
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\Interop.VBIDE.dll
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATA.vbproj.ResolveComReference.cache
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATACK.editv1.resources
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATACK.find_edit.resources
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATACK.Resources.resources
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATACK.test_open_sua.resources
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATACK.thongtin.resources
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATACK.tracnghiem.resources
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATACK.trinhedit.resources
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATACK.win_share.resources
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATACK.word_file.resources
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATACK.word_tuychon.resources
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATACK.xacnhan.resources
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATA.vbproj.GenerateResource.cache
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATA.vbproj.CoreCompileInputs.cache
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATA.exe
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATA.xml
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\MAKEDATA.pdb

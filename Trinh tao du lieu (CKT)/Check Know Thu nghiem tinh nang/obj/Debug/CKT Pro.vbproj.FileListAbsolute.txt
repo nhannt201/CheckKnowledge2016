@@ -1,0 +1,24 @@
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\bin\Debug\CKTPro.exe.config
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\bin\Debug\CKTPro.exe
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\bin\Debug\CKTPro.pdb
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\bin\Debug\CKTPro.xml
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\CKT Pro.vbprojAssemblyReference.cache
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\Interop.Accessibility.dll
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\Interop.VBIDE.dll
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\CKT Pro.vbproj.ResolveComReference.cache
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\CKTPro.editv1.resources
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\CKTPro.find_edit.resources
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\CKTPro.Resources.resources
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\CKTPro.test_open_sua.resources
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\CKTPro.thongtin.resources
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\CKTPro.tracnghiem.resources
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\CKTPro.trinhedit.resources
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\CKTPro.win_share.resources
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\CKTPro.word_file.resources
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\CKTPro.word_tuychon.resources
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\CKTPro.xacnhan.resources
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\CKT Pro.vbproj.GenerateResource.cache
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\CKT Pro.vbproj.CoreCompileInputs.cache
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\CKTPro.exe
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\CKTPro.xml
+F:\VB.NET\Trinh tao du lieu (CKT)\Check Know Thu nghiem tinh nang\obj\Debug\CKTPro.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\Test\bin\Debug\Test.exe.config
+C:\Users\Admin\AppData\Local\Temporary Projects\Test\bin\Debug\Test.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Test\bin\Debug\Test.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\Test\bin\Debug\Test.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\Test\obj\Debug\Test.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Test\obj\Debug\Test.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Test\obj\Debug\Test.vbproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\Test\obj\Debug\Test.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Test\obj\Debug\Test.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\Test\obj\Debug\Test.pdb

@@ -1,0 +1,13 @@
+E:\Check Know Thu nghiem tinh nang\Check Know Thu nghiem tinh nang\bin\Debug\Check Know Thu nghiem tinh nang.exe.config
+E:\Check Know Thu nghiem tinh nang\Check Know Thu nghiem tinh nang\obj\Debug\Test.Form1.resources
+E:\Check Know Thu nghiem tinh nang\Check Know Thu nghiem tinh nang\obj\Debug\Test.Form2.resources
+E:\Check Know Thu nghiem tinh nang\Check Know Thu nghiem tinh nang\obj\Debug\Test.Resources.resources
+E:\Check Know Thu nghiem tinh nang\Check Know Thu nghiem tinh nang\obj\Debug\Check Know Thu nghiem tinh nang.vbproj.GenerateResource.Cache
+E:\Check Know Thu nghiem tinh nang\Check Know Thu nghiem tinh nang\bin\Debug\Check Know Thu nghiem tinh nang.exe
+E:\Check Know Thu nghiem tinh nang\Check Know Thu nghiem tinh nang\bin\Debug\Check Know Thu nghiem tinh nang.pdb
+E:\Check Know Thu nghiem tinh nang\Check Know Thu nghiem tinh nang\bin\Debug\Check Know Thu nghiem tinh nang.xml
+E:\Check Know Thu nghiem tinh nang\Check Know Thu nghiem tinh nang\obj\Debug\Check Know Thu nghiem tinh nang.exe
+E:\Check Know Thu nghiem tinh nang\Check Know Thu nghiem tinh nang\obj\Debug\Check Know Thu nghiem tinh nang.xml
+E:\Check Know Thu nghiem tinh nang\Check Know Thu nghiem tinh nang\obj\Debug\Check Know Thu nghiem tinh nang.pdb
+E:\Check Know Thu nghiem tinh nang\Check Know Thu nghiem tinh nang\obj\Debug\Check Know Thu nghiem tinh nang.vbprojResolveAssemblyReference.cache
+E:\Check Know Thu nghiem tinh nang\Check Know Thu nghiem tinh nang\bin\Debug\Trinh tao du lieu.exe.config
