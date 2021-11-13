@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E0A7255C-8300-417D-BCAB-9BC20F0801A3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>CKTPro.My.MyApplication</StartupObject>
+    <RootNamespace>CKTPro</RootNamespace>
+    <AssemblyName>CKTPro</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>CKTPro.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>CKTPro.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>fdgdg.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CustomMessageBox.vb" />
+    <Compile Include="editv1.Designer.vb">
+      <DependentUpon>editv1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="editv1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Endechung.vb" />
+    <Compile Include="find_edit.Designer.vb">
+      <DependentUpon>find_edit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="find_edit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="test_open_sua.Designer.vb">
+      <DependentUpon>test_open_sua.vb</DependentUpon>
+    </Compile>
+    <Compile Include="test_open_sua.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="thongtin.Designer.vb">
+      <DependentUpon>thongtin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="thongtin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tracnghiem.Designer.vb">
+      <DependentUpon>tracnghiem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tracnghiem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trinhedit.Designer.vb">
+      <DependentUpon>trinhedit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="trinhedit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="win_share.Designer.vb">
+      <DependentUpon>win_share.vb</DependentUpon>
+    </Compile>
+    <Compile Include="win_share.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="word_file.Designer.vb">
+      <DependentUpon>word_file.vb</DependentUpon>
+    </Compile>
+    <Compile Include="word_file.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="word_tuychon.Designer.vb">
+      <DependentUpon>word_tuychon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="word_tuychon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="xacnhan.Designer.vb">
+      <DependentUpon>xacnhan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="xacnhan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="editv1.resx">
+      <DependentUpon>editv1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="find_edit.resx">
+      <DependentUpon>find_edit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="test_open_sua.resx">
+      <DependentUpon>test_open_sua.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="thongtin.resx">
+      <DependentUpon>thongtin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tracnghiem.resx">
+      <DependentUpon>tracnghiem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trinhedit.resx">
+      <DependentUpon>trinhedit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="win_share.resx">
+      <DependentUpon>win_share.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="word_file.resx">
+      <DependentUpon>word_file.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="word_tuychon.resx">
+      <DependentUpon>word_tuychon.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="xacnhan.resx">
+      <DependentUpon>xacnhan.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="fdgdg.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Accessibility">
+      <Guid>{1EA4DBF0-3C3B-11CF-810C-00AA00389B71}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Word">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
